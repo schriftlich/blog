@@ -1,0 +1,43 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "schriftli.ch",
+    "description": "",
+    "home_page_url": "https://schriftlich.github.io/blog",
+    "feed_url": "https://schriftlich.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "seb"
+    },
+    "items": [
+        {
+            "id": "https://schriftlich.github.io/blog/es-will-zeit.html",
+            "url": "https://schriftlich.github.io/blog/es-will-zeit.html",
+            "title": "Es will Zeit",
+            "summary": "Gottes Wort beansprucht meine Zeit. Gott selbst ging ein in die Zeit und will nun auch, daß ich ihm meine Zeit gebe. Christsein ist nicht die Sache eines Augenblicks, sondern es wil Zeit.",
+            "content_html": "<p>Gottes Wort beansprucht meine Zeit. Gott selbst ging ein in die Zeit und will nun auch, daß ich ihm meine Zeit gebe. Christsein ist nicht die Sache eines Augenblicks, sondern es wil Zeit.</p>",
+            "image": "https://schriftlich.github.io/blog/media/posts/2/uhr.jpeg",
+            "author": {
+                "name": "seb"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-12-30T07:50:20+01:00",
+            "date_modified": "2021-12-30T08:21:41+01:00"
+        },
+        {
+            "id": "https://schriftlich.github.io/blog/gehorsam.html",
+            "url": "https://schriftlich.github.io/blog/gehorsam.html",
+            "title": "Von Gehorsam und Freiheit",
+            "summary": " Jesus steht vor Gott als der Gehorsame und als der Freie. Als der Gehorsame tut er den Willen des Vaters in blinder Befolgung des ihm befohlenen Gesetzes. Als der Freie bejaht er den Willen aus eigenster Erkenntnis, mit offenen Augen und&nbsp;freudigem Herzen, schafft er&hellip;",
+            "content_html": "\n  <p>\n    Jesus steht vor Gott als der Gehorsame und als der Freie. Als der Gehorsame tut er den Willen des Vaters in blinder Befolgung des ihm befohlenen Gesetzes. Als der Freie bejaht er den Willen aus eigenster Erkenntnis, mit offenen Augen und&nbsp;freudigem Herzen, schafft er ihn gleichsam aus sich selbst heraus&nbsp;aufs neue. Gehorsam ohne Freiheit ist Sklaverei, Freiheit ohne Gehorsam ist Willkür. Der Gehorsam bindet die Freiheit, die Freiheit adelt den Gehorsam. Der Gehorsam bindet das Geschöpf an den Schöpfer, die Freiheit stellt das Geschöpf in seiner Ebenbildlichkeit dem Schöpfer gegenüber. Der Gehorsam zeigt dem Menschen, daß er sich sagen lassen muß, was gut ist und was Gott von ihm fordert (Micha 6, 8), die Freiheit läßt den Menschen das Gute selbst schaffen. Gehorsam weiß, was gut ist, und tut es. Die Freiheit wagt zu handeln und stellt das Urteil über Gut und Böse Gott anheim. Gehorsam folgt blind, Freiheit hat offene Augen. Gehorsam handelt ohne zu fragen, Freiheit fragt nach dem Sinn. Gehorsam hat gebundene Hände, Freiheit ist schöpferisch. Im Gehorsam befolgt der Mensch den Dekalog Gottes, in der Freiheit schafft der Mensch neue Dekaloge (Luther).\n  </p>\n\n    <figure class=\"blockquote\">\n      <blockquote>\"Gehorsam ohne Freiheit ist Sklaverei, Freiheit ohne Gehorsam ist Willkür.\"</blockquote>\n      <figcaption>Dietrich Bonhoeffer</figcaption>\n    </figure>\n\n  <p>\n    In der Verantwortung realisiert sich beides, Gehorsam&nbsp;und Freiheit. Sie trägt diese Spannung in sich. Jede Verselbständigung&nbsp;des einen gegen das andere wäre das Ende der Verantwortung.&nbsp;Verantwortliches Handeln ist gebunden und | doch schöpferisch. Die Verselbstständigung des Gehorsams würde zur Kantischen Pflichtethik führen, die Verselbstständigung der Freiheit zur romantischen Genieethik.\n  </p>\n\n  <p>\n    <em>Bonhoeffer, Dietrich Ethik. DBW Band 6, Seite 288.</em>\n  </p>",
+            "image": "https://schriftlich.github.io/blog/media/posts/1/IMG_05221.jpg",
+            "author": {
+                "name": "seb"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-11-14T11:53:16+01:00",
+            "date_modified": "2021-11-14T16:38:53+01:00"
+        }
+    ]
+}
