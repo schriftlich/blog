@@ -3,12 +3,33 @@
     <title>schriftli.ch</title>
     <link href="https://schriftlich.github.io/blog/feed.xml" rel="self" />
     <link href="https://schriftlich.github.io/blog" />
-    <updated>2022-01-25T08:52:25+01:00</updated>
+    <updated>2022-07-07T09:02:28+02:00</updated>
     <author>
         <name>seb</name>
     </author>
     <id>https://schriftlich.github.io/blog</id>
 
+    <entry>
+        <title>Einfach(es) Leben</title>
+        <author>
+            <name>seb</name>
+        </author>
+        <link href="https://schriftlich.github.io/blog/einfaches-leben.html"/>
+        <id>https://schriftlich.github.io/blog/einfaches-leben.html</id>
+
+        <updated>2022-07-07T09:02:28+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Predigtaufzeichnung vom 19.06.2022 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Predigtaufzeichnung vom 19.06.2022</p>
+<figure class="post__audio"><audio loading="lazy" controls="controls" src="https://filedn.eu/liEgOmbC8lmSN8c3RJgaeYy/schriftlich/public/20220619-Einfaches-Leben.mp3" data-mce-fragment="1"></audio></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Was wir verlieren würden</title>
         <author>

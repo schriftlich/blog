@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://schriftlich.github.io/blog/einfaches-leben.html",
+            "url": "https://schriftlich.github.io/blog/einfaches-leben.html",
+            "title": "Einfach(es) Leben",
+            "summary": "Predigtaufzeichnung vom 19.06.2022 ",
+            "content_html": "<p>Predigtaufzeichnung vom 19.06.2022</p>\n<figure class=\"post__audio\"><audio loading=\"lazy\" controls=\"controls\" src=\"https://filedn.eu/liEgOmbC8lmSN8c3RJgaeYy/schriftlich/public/20220619-Einfaches-Leben.mp3\" data-mce-fragment=\"1\"></audio></figure>",
+            "author": {
+                "name": "seb"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-07-07T09:01:22+02:00",
+            "date_modified": "2022-07-07T09:02:28+02:00"
+        },
+        {
             "id": "https://schriftlich.github.io/blog/was-wir-verlieren-wuerden.html",
             "url": "https://schriftlich.github.io/blog/was-wir-verlieren-wuerden.html",
             "title": "Was wir verlieren würden",
